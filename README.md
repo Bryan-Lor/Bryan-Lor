@@ -5,11 +5,11 @@
 - 💞️ I’m looking to collaborate on ...
 --->
 
-- 📫 Contact Me ----------------
--Student Email: hf3837@wayne.edu
--Personal Email: bryanloremail@gmail.com
--https://www.linkedin.com/in/bryan-lor/
--https://app.joinhandshake.com/stu/users/32925718
+- 📫 Contact Me ----------------<br />
+-Student Email: hf3837@wayne.edu <br />
+-Personal Email: bryanloremail@gmail.com <br />
+-https://www.linkedin.com/in/bryan-lor/ <br />
+-https://app.joinhandshake.com/stu/users/32925718 <br />
 
 <!---
 Bryan-Lor/Bryan-Lor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
