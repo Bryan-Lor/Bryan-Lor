@@ -8,8 +8,8 @@
 - 📫 Contact Me ----------------<br />
 -Student Email: hf3837@wayne.edu <br />
 -Personal Email: bryanloremail@gmail.com <br />
--https://www.linkedin.com/in/bryan-lor/ <br />
--https://app.joinhandshake.com/stu/users/32925718 <br />
+-LinkedIn: https://www.linkedin.com/in/bryan-lor/ <br />
+-Handshake: https://app.joinhandshake.com/stu/users/32925718 <br />
 
 <!---
 Bryan-Lor/Bryan-Lor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
