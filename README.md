@@ -1,7 +1,7 @@
 # Hello there!
 ### I'm a Software Developer
--Interested in Full Stack and App Development  
 -Currently pursuing a Bachelors in Computer Science, with a minor in Animation and Interactivity  
+-Interested in Full Stack and App Development  
   
 ## Skills  
  
