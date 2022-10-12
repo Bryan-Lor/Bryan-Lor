@@ -24,9 +24,8 @@
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS_Office-eb3d01?style=for-the-badge&logo=Microsoft+Office&logoColor=white)
   
-#### Links 
-Personal Email: bryanloremail@gmail.com  
-Student Email: hf3837@wayne.edu  
+#### Links
+Personal Email: bryanloremail@gmail.com &nbsp;  | &nbsp;  Student Email: hf3837@wayne.edu  
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://bryanlor.webflow.io/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://uploads-ssl.webflow.com/63141e4d7abad86d6ff6abe3/6337bfc2ab4d88a47301bd12_Bryan%20Lor%20Software%20Engineering%20Resume%202022.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0c64c5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-lor/)
