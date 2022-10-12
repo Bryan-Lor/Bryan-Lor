@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @Bryan-Lor
-- 👀 I’m interested in Software Engineering/Development
-- 🌱 I’m currently learning Computer Science
+<h1>Hello there! </h1>
+<h3>I'm a Software Developer </h3>
+- Interested in Full Stack and App Development<br />
+- Currently pursuing a Bachelors in Computer Science, with a minor in Animation and Interactivity <br /> <br />
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
 
-- 📫 Contact Me ----------------<br />
+-📫 Contact Me ----------------<br />
 -Student Email: hf3837@wayne.edu <br />
 -Personal Email: bryanloremail@gmail.com | -Student Email: hf3837@wayne.edu  <br />
 -LinkedIn: https://www.linkedin.com/in/bryan-lor/ <br />
