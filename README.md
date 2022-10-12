@@ -1,9 +1,12 @@
-# Hello there!
-### I'm a Software Developer
+# Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+<!---
+### 👨‍💼 I'm a Software Developer
+--->
+### 👨‍🎓 I'm a developer and a student
 -Currently pursuing a Bachelors in Computer Science, with a minor in Animation and Interactivity  
 -Interested in Full Stack and App Development  
   
-## Skills  
+## 🛠️ Skills  
  
 #### Languages   
 ![C++](https://img.shields.io/badge/C%2B%2B-00589d?style=for-the-badge&logo=C%2B%2B&logoColor=white)
