@@ -8,7 +8,7 @@
 
 -📫 Contact Me ----------------<br />
 -Student Email: hf3837@wayne.edu <br />
--Personal Email: bryanloremail@gmail.com | -Student Email: hf3837@wayne.edu  <br />
+-Personal Email: bryanloremail@gmail.com | Student Email: hf3837@wayne.edu  <br />
 -LinkedIn: https://www.linkedin.com/in/bryan-lor/ <br />
 -Handshake: https://app.joinhandshake.com/stu/users/32925718 <br />
 
