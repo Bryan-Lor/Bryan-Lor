@@ -3,9 +3,14 @@
 ### 👨‍💼 I'm a Software Developer
 --->
 ### 👨‍🎓 I'm a developer and a student
+<!---
 -Currently pursuing a Bachelors in Computer Science, with a minor in Animation and Interactivity  
--Interested in Full Stack and App Development  
+-Interested in Full Stack and App Development 
+--->
+I'm currently pursuing a bachelors of Computer Science and a minor in Animation and Interactivity at Wayne State University. Before I came here, I completed an Early College Program at Macomb Community College and received an associates degree upon graduating high school. I find classes a little too slow for my pace so you'll catch me learning and experimenting on my own time.  
   
+I enjoy utilizing technology to design and create lots of exciting things. What I love the most is Software development and Graphic Design. Full-stack development in particular is where I really shine, since it allows me to showcase my technical and creative abilities. Often times I am learning a new skill outside of what I've done before. It's fun to dive into different things and learn on the go. I've made general software, websites, 3D models / animations, visual concepts, photo manipulations and lots more!
+   
 ## 🛠️ Skills  
  
 ### Languages   
