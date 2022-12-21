@@ -11,9 +11,6 @@ I'm currently pursuing a bachelors of Computer Science and a minor in Animation 
   
 I enjoy utilizing technology to design and create lots of exciting things. What I love the most is Software development and Graphic Design. Full-stack development in particular is where I really shine, since it allows me to showcase my technical and creative abilities. Often times I am learning a new skill outside of what I've done before. It's fun to dive into different things and learn on the go. I've made general software, websites, 3D models / animations, visual concepts, photo manipulations and lots more!
    
-## Featured Project
-![Vivian Cafe](https://github.com/Bryan-Lor/Vivian-Cafe/blob/main/images/viviancafe_capture.PNG)
-   
 ## 🛠️ Skills  
  
 #### Languages   
@@ -63,7 +60,11 @@ I enjoy utilizing technology to design and create lots of exciting things. What 
 
 Personal Email: bryanloremail@gmail.com &nbsp;  | &nbsp;  Student Email: hf3837@wayne.edu  
 
-
+   
+## Featured Project
+![Vivian Cafe](https://github.com/Bryan-Lor/Vivian-Cafe/blob/main/images/viviancafe_capture.PNG)
+  
+  
 <!---
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)  
 Bryan-Lor/Bryan-Lor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
