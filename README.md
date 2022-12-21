@@ -62,7 +62,7 @@ Personal Email: bryanloremail@gmail.com &nbsp;  | &nbsp;  Student Email: hf3837@
 
    
 ## Featured Project
-![Vivian Cafe](https://github.com/Bryan-Lor/Vivian-Cafe/blob/main/images/viviancafe_capture.PNG)
+[![Vivian Cafe](https://github.com/Bryan-Lor/Vivian-Cafe/blob/main/images/viviancafe_capture.PNG)](https://github.com/Bryan-Lor/Vivian-Cafe)
   
   
 <!---
