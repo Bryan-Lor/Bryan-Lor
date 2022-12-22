@@ -68,7 +68,7 @@ Personal Email: bryanloremail@gmail.com &nbsp;  | &nbsp;  Student Email: hf3837@
 
 <div>
 <img height="125%" src="https://github-readme-stats.vercel.app/api?username=Bryan-Lor&theme=transparent&show_icons=true&hide_border=true&count_private=true" />
-<img height="175%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-Lor&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
+<img height="145%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-Lor&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
 </div>
    
 <!---
