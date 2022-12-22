@@ -1,7 +1,7 @@
 # Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" />
 ### 👨‍🎓 I'm A Student Developer
-Currently studying Computer Science at Wayne State University with a minor in Animation and Interactivity.  
-I enjoy incorporating both technical and artistical skills to create lots of exciting things. What I'm interested in is software development and graphic design. I'm always learning and experimenting with things outside of what I've done before. I find it fun to dive into different things and learn on the go. 
+Currently studying Computer Science at Wayne State University with a minor in Animation and Interactivity. 
+I enjoy incorporating technical and artistic skills to create many exciting things. Having a strong interest in software development and graphic design, I'm always learning and experimenting. I find it fun to dive into new things and learn on the go. 
    
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 ## 🛠️ Skills  
