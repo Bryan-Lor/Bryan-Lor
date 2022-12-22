@@ -56,7 +56,7 @@ Personal Email: bryanloremail@gmail.com &nbsp;  | &nbsp;  Student Email: hf3837@
 [![Vivian Cafe](https://github.com/Bryan-Lor/Vivian-Cafe/blob/main/images/viviancafe_banner.PNG)](https://github.com/Bryan-Lor/Vivian-Cafe)
   
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
-## 📝 GitHub Summary
+## 📊 GitHub Summary
 <div>
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Bryan-Lor&theme=transparent&show_icons=true&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-Lor&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
