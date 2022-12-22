@@ -2,6 +2,8 @@
 ### 👨‍🎓 I'm A Student Developer
 Currently studying Computer Science at Wayne State University with a minor in Animation and Interactivity. 
 I enjoy incorporating technical and artistic skills to create many exciting things. Having a strong interest in software development and graphic design, I'm always learning and experimenting. I find it fun to dive into new things and learn on the go. 
+
+View my projects **[here!](https://github.com/Bryan-Lor?tab=repositories)**
    
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 ## 🛠️ Skills  
