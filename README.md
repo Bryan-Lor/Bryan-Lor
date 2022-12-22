@@ -5,27 +5,22 @@ I enjoy incorporating both technical and artistical skills to create lots of exc
    
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 ## 🛠️ Skills  
-#### Languages & Libraries  
+#### Languages 
 ![C++](https://img.shields.io/badge/C%2B%2B-00589d?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-9f74da?style=for-the-badge&logo=C+sharp&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-
-#### Web Development
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+#### Libraries & Frameworks
 ![React](https://img.shields.io/badge/React-303031?style=for-the-badge&logo=React)
 ![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-2C64BA?style=for-the-badge&logo=Python&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![selenium](https://img.shields.io/badge/selenium-00b400?style=for-the-badge&logo=selenium&logoColor=white)
-
-#### Design Tools  
-![Creative Cloud](https://img.shields.io/badge/Creative_Cloud-ff8f00?style=for-the-badge&logo=Adobe+Creative+Cloud&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-263C89?style=for-the-badge&logo=Adobe+Photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-FB8100?style=for-the-badge&logo=Blender&logoColor=white)
 
 #### Technical Tools
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-813FA2?style=for-the-badge&logo=Visual+Studio)
@@ -34,6 +29,12 @@ I enjoy incorporating both technical and artistical skills to create lots of exc
 ![MATLAB](https://img.shields.io/badge/MATLAB-0B7AB4?style=for-the-badge&logo=matomo)
 ![MS Office](https://img.shields.io/badge/MS_Office-eb3d01?style=for-the-badge&logo=Microsoft+Office&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-25385C?style=for-the-badge&logo=Unity)
+
+#### Design Tools  
+![Creative Cloud](https://img.shields.io/badge/Creative_Cloud-ff8f00?style=for-the-badge&logo=Adobe+Creative+Cloud&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-263C89?style=for-the-badge&logo=Adobe+Photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-FB8100?style=for-the-badge&logo=Blender&logoColor=white)
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -57,8 +58,8 @@ Personal Email: bryanloremail@gmail.com &nbsp;  | &nbsp;  Student Email: hf3837@
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 ## 📝 GitHub Summary
 <div>
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Bryan-Lor&theme=transparent&show_icons=true&hide_border=true&count_private=true" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-Lor&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Bryan-Lor&theme=transparent&show_icons=true&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-Lor&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
 </div>
    
 <!---
