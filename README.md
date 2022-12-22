@@ -24,7 +24,7 @@ I enjoy incorporating both technical and artistical skills to create lots of exc
 
 #### Technical Tools
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-813FA2?style=for-the-badge&logo=Visual+Studio)
-![VS Code](https://img.shields.io/badge/VS_Code-3C80C1?style=for-the-badge&logo=Visual+Studio+Code)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-3C80C1?style=for-the-badge&logo=Visual+Studio+Code)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0B7AB4?style=for-the-badge&logo=matomo)
 ![MS Office](https://img.shields.io/badge/MS_Office-eb3d01?style=for-the-badge&logo=Microsoft+Office&logoColor=white)
