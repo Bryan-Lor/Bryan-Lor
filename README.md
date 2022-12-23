@@ -29,8 +29,8 @@ View my projects **[here!](https://github.com/Bryan-Lor?tab=repositories)**
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-813FA2?style=for-the-badge&logo=Visual+Studio)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-3C80C1?style=for-the-badge&logo=Visual+Studio+Code)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0B7AB4?style=for-the-badge&logo=matomo)
-![MS Office](https://img.shields.io/badge/MS_Office-eb3d01?style=for-the-badge&logo=Microsoft+Office&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0B7AB4?style=for-the-badge&logo=matlab)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-eb3d01?style=for-the-badge&logo=Microsoft+Office&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-25385C?style=for-the-badge&logo=Unity)
 
 #### Design Tools  
