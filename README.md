@@ -1,4 +1,4 @@
-# Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" />
+# Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" /> </br> [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://bryanlor.webflow.io/) [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](Bryan_Lor_Resume_2022.pdf)
 ### 👨‍🎓 I'm A Student Developer
 Currently studying Computer Science at Wayne State University with a minor in Animation and Interactivity. 
 I enjoy incorporating technical and artistic skills to create many exciting things. Having a strong interest in software development and graphic design, I'm always learning and experimenting. I find it fun to dive into new things and learn on the go. 
@@ -49,8 +49,6 @@ View my projects **[here!](https://github.com/Bryan-Lor?tab=repositories)**
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 ## <img src="https://media.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" width="30px" height="30px" /> Get In Touch 
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://bryanlor.webflow.io/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](Bryan_Lor_Resume_2022.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0c64c5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-lor/)
 [![Handshake](https://img.shields.io/badge/Handshake-ff1616?style=for-the-badge&logo=handshake&logoColor=white)](https://app.joinhandshake.com/stu/users/32925718)  
 Personal Email: bryanloremail@gmail.com &nbsp;  | &nbsp;  Student Email: hf3837@wayne.edu  
