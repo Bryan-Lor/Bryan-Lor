@@ -34,7 +34,6 @@ View my projects **[here!](https://github.com/Bryan-Lor?tab=repositories)**
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-813FA2?style=for-the-badge&logo=Visual+Studio)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-3C80C1?style=for-the-badge&logo=Visual+Studio+Code)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-eb3d01?style=for-the-badge&logo=Microsoft+Office&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-25385C?style=for-the-badge&logo=Unity)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0B7AB4?style=for-the-badge&logo=matlab)
@@ -45,9 +44,10 @@ View my projects **[here!](https://github.com/Bryan-Lor?tab=repositories)**
 ![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-FB8100?style=for-the-badge&logo=Blender&logoColor=white)
 
-#### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-
+#### Databases & Services
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+  
 #### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/_Linux-FFD235?style=for-the-badge&logo=Linux&logoColor=black)
