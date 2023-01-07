@@ -25,6 +25,7 @@ View my projects **[here!](https://github.com/Bryan-Lor?tab=repositories)**
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-2C64BA?style=for-the-badge&logo=Python&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![selenium](https://img.shields.io/badge/selenium-00b400?style=for-the-badge&logo=selenium&logoColor=white)
 
