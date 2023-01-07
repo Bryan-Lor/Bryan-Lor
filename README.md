@@ -18,7 +18,10 @@ View my projects **[here!](https://github.com/Bryan-Lor?tab=repositories)**
 
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-303031?style=for-the-badge&logo=React)
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Express.JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-2C64BA?style=for-the-badge&logo=Python&logoColor=white)
@@ -26,12 +29,14 @@ View my projects **[here!](https://github.com/Bryan-Lor?tab=repositories)**
 ![selenium](https://img.shields.io/badge/selenium-00b400?style=for-the-badge&logo=selenium&logoColor=white)
 
 #### Technical Tools
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-813FA2?style=for-the-badge&logo=Visual+Studio)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-3C80C1?style=for-the-badge&logo=Visual+Studio+Code)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0B7AB4?style=for-the-badge&logo=matlab)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-eb3d01?style=for-the-badge&logo=Microsoft+Office&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-25385C?style=for-the-badge&logo=Unity)
+![MATLAB](https://img.shields.io/badge/MATLAB-0B7AB4?style=for-the-badge&logo=matlab)
 
 #### Design Tools  
 ![Creative Cloud](https://img.shields.io/badge/Creative_Cloud-ff8f00?style=for-the-badge&logo=Adobe+Creative+Cloud&logoColor=white)
