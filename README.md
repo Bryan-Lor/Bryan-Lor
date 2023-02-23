@@ -71,7 +71,7 @@ Personal Email: bryanloremail@gmail.com &nbsp;  | &nbsp;  Student Email: hf3837@
 [![Vivian Cafe](https://github.com/Bryan-Lor/Vivian-Cafe/blob/main/images/viviancafe_banner.PNG)](https://github.com/Bryan-Lor/Vivian-Cafe)
 --->
 
-[![CuraAI - Claire](images/claireThumbnailv2.jpg)](https://github.com/101KiddChang010/mhacks-hackathone)
+[![CuraAI - Claire](images/claireThumbnailv2.jpg)](https://github.com/101KiddChang010/mhacks-hackathon)
   
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 ## <img src="https://media1.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.gif?cid=ecf05e47c17o5fz2gwmnk1h7m2uiqo9fd2kusje4z3bup8fa&rid=giphy.gif&ct=s" width="25px" height="25px" /> GitHub Summary
