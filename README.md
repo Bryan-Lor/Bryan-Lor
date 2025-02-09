@@ -61,7 +61,7 @@ View my projects **[here!](https://github.com/Bryan-Lor?tab=repositories)**
 Personal Email: bryanloremail@gmail.com &nbsp;  | &nbsp;  Student Email: hf3837@wayne.edu  
   
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
-## <img src="https://github.com/Bryan-Lor/Bryan-Lor/blob/main/images/gifs/emoji_sparkles.gif" width="28px" height="28px" /> Featured Project
+<!--- ## <img src="https://github.com/Bryan-Lor/Bryan-Lor/blob/main/images/gifs/emoji_sparkles.gif" width="28px" height="28px" /> Featured Project --->
 <!---
 ![Sparkles Emoji]<img src="https://github.com/Bryan-Lor/Bryan-Lor/blob/main/images/gifs/emoji_sparkles.gif" width="30px" height="30px" />
 ![Sparkles Gif]<img src="https://media2.giphy.com/media/J5LrdRAtbHAERamauT/giphy.gif?cid=790b761186d3ed7ad646d1e5f7f3128104484106583f53ab&rid=giphy.gif&ct=s" width="30px" height="30px" />
@@ -71,7 +71,7 @@ Personal Email: bryanloremail@gmail.com &nbsp;  | &nbsp;  Student Email: hf3837@
 [![Vivian Cafe](https://github.com/Bryan-Lor/Vivian-Cafe/blob/main/images/viviancafe_banner.PNG)](https://github.com/Bryan-Lor/Vivian-Cafe)
 --->
 
-[![CuraAI - Claire](images/claireThumbnailv2.jpg)](https://github.com/101KiddChang010/mhacks-hackathon)
+<!--- [![CuraAI - Claire](images/claireThumbnailv2.jpg)](https://github.com/101KiddChang010/mhacks-hackathon) --->
   
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 ## <img src="https://media1.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.gif?cid=ecf05e47c17o5fz2gwmnk1h7m2uiqo9fd2kusje4z3bup8fa&rid=giphy.gif&ct=s" width="25px" height="25px" /> GitHub Summary
